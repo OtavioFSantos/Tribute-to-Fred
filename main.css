@@ -1,0 +1,31 @@
+html{
+    font-size: 1.2em;
+}
+body{
+    font-family: monospace;
+    text-align: center;
+    color: #335;
+    background: #eee;
+}
+h1{
+    font-size: 3rem;
+    background: #ddd;
+    border-radius: 5%;
+    max-width: 550px;
+    margin: 0 auto;
+}
+img{
+    max-width: 50%;
+    border-radius: 3%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+    margin-left: -40px;
+    margin-top: -10px;
+}
+li{
+    margin-top: -1px;
+}

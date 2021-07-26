@@ -1,0 +1,1 @@
+A simple tribute to my cat who has passed away last month. The picture is from MHW by the way.
